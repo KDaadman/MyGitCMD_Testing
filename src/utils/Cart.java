@@ -1,5 +1,5 @@
 package utils;
-public Cart {
+public class Cart {
   // FROM GITHUB
   // A file with some lines
   // and other lines
